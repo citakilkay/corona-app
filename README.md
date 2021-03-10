@@ -5,7 +5,7 @@ This project shows live and historical datas, rates and charts about Covid-19 by
  - Clickable Markers on Map show Country infos
  - Live Chart shows Total Cases, Total Recovered, Total Deaths hover around to see exact figures
 
-![Covid-19 Tracker](https://media.giphy.com/media/hqLngoyRlyyZ0zJOgD/giphy.gif)
+![Covid-19 Tracker](https://media.giphy.com/media/hqLngoyRlyyZ0zJOgD/giphy.gif | height=200)
 
 ## Installing and Running the App
  - git clone https://github.com/citakilkay/corona-app.git
@@ -24,7 +24,7 @@ This project shows live and historical datas, rates and charts about Covid-19 by
 
 ## ToDoList
  - [ ] Add Table Sorted Icon
- - [ ] Fix Map Markdown
+ - [ ] Fix Map Marker
  - [ ] Seperate y-axis of death from recovered and case in Chart.
 
 LICENSE:MIT
