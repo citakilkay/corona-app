@@ -1,0 +1,36 @@
+
+*{
+    box-sizing: border-box;
+    border-spacing: 0;
+}
+.tableDiv {
+    max-height: 80vh;
+    overflow: auto;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+.tableComponent{
+    thead tr th {
+        position: sticky;
+        top: 0;
+        cursor: pointer;
+    }
+    
+}
+.opacity-bg{
+    background-color: #343a40b3;
+}
+
+.map-All{
+    height: 75vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 0.5em;
+    margin-top: 1em;
+    border-radius: 4px;
+    margin-bottom: 5em;
+    box-shadow: 0 0 8px #00000080;
+    .leaflet-container{
+        height: 100%;
+    }
+}
