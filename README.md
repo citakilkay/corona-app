@@ -27,4 +27,4 @@ This project shows live and historical datas, rates and charts about Covid-19 by
  - [ ] Fix Map Marker
  - [ ] Seperate y-axis of death from recovered and case in Chart.
 
-LICENSE:MIT
+LICENSE:MIT 
