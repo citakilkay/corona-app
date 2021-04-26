@@ -24,7 +24,7 @@ https://corona-watch-app.netlify.app/
  - Worldometers and JHUCCSE Api
  - React-Leaflet
  - React-Chart.js
-
+ 
 ## ToDoList
  - [ ] Add Table Sorted Icon
  - [ ] Fix Map Marker
