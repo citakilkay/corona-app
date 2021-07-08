@@ -5,7 +5,7 @@ This project shows live and historical datas, rates and charts about Covid-19 by
  - Clickable Markers on Map show Country infos
  - Live Chart shows Total Cases, Total Recovered, Total Deaths hover around to see exact figures
 
-## LIVE ==> https://app.netlify.com/sites/corona-watch-app/
+## LIVE ==> https://corona-watch-app.netlify.app
 
 ## Installing and Running the App
  - git clone https://github.com/citakilkay/corona-app.git
