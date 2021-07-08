@@ -21,7 +21,7 @@ This project shows live and historical datas, rates and charts about Covid-19 by
  - Worldometers and JHUCCSE Api
  - React-Leaflet
  - React-Chart.js
-
+ 
 ## ToDoList
  - [ ] Add Table Sorted Icon
  - [ ] Fix Map Marker
